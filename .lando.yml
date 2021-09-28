@@ -1,0 +1,7 @@
+name: d8-build-tools
+recipe: pantheon
+config:
+  webroot: web
+  framework: drupal8
+  site: d8-build-tools
+  id: 15b9ddf8-b3f1-42f4-bdc4-9e4c63f58a1e
